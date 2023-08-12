@@ -29,7 +29,7 @@ const WhoWeAre = (props) => {
                 </h2>
               </div>
               <a className="btn text-center" onClick={openWhatsapp}>
-                Whatsapp Now
+               <i className="fab fa-whatsapp"></i> Whatsapp Now
               </a>
             </div>
           </div>
